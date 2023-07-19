@@ -1,5 +1,5 @@
 %%manim -ql --renderer=cairo asd
-
+#работает в юпитере
 # %%manim -ql -gpu PointPlacement
 
 class asd(Scene):
